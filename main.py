@@ -2,7 +2,7 @@ import telnyx
 from flask import Flask, request, Response
 
 
-telnyx.api_key = "KEY01727BBFDD0BB2A5B12F723A5EC5B2D8_j4SJ4HzNw0gf4dwtsmDb3P"
+telnyx.api_key = "YOUR_API_KEY"
 
 app = Flask(__name__)
 
